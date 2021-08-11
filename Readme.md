@@ -25,7 +25,7 @@
 ##### Clone the repository
 
 ```bash
-git clone https://github.com/karan0805/Hire-Me.git
+git clone https://github.com/kkhitesh/Hire-Me.git
 ```
 
 ##### Move to the desired folder
